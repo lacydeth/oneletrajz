@@ -241,7 +241,7 @@ html body {
     font-family: 'Quicksand', sans-serif;
 
 }
-h5 {
+h6 {
     position: absolute;
     top: calc(187% - 35px);
     left: calc(65.4% - 255px);
